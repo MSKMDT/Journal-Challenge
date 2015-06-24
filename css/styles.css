@@ -1,0 +1,28 @@
+html,body{
+	margin:0;
+	background:#d8d8d8;
+}
+
+a{
+	text-decoration: none;
+}
+body {
+	padding: 50px;
+}
+h1 {
+	font-size: 32px;
+}
+
+input, textarea {
+	padding: 10px;
+	width: 100%;
+	font-size:1em;
+	border-radius: 10px;
+	outline:none;
+}
+
+.submitEntry-btn {
+	margin-top: 15px;
+	padding: 5px;
+	border-radius: 10px;
+}
